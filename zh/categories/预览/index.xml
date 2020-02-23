@@ -23,17 +23,5 @@
 &lt;p&gt;不包含复杂的规则说明，仅仅展示 GFM 所约定的 Markdown 基本语法。&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Test Page</title>
-      <link>https://ameliein.github.io/zh/test/</link>
-      <pubDate>Sun, 04 Aug 2019 22:49:56 +0800</pubDate>
-      
-      <guid>https://ameliein.github.io/zh/test/</guid>
-      <description>&lt;h2 id=&#34;fas-fa-rocket-this-is-a-test-page&#34;&gt;:(fas fa-rocket): This is a test page&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.aol.com/article/entertainment/2020/02/10/oscars-viewership-hits-new-low-with-236-million-viewers/23923047/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;https://www.aol.com/article/entertainment/2020/02/10/oscars-viewership-hits-new-low-with-236-million-viewers/23923047/&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;Test all features in development.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>

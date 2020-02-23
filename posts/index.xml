@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Amelie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Feb 2020 14:11:31 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2020 15:12:32 +0800</lastBuildDate>
     
 	<atom:link href="https://ameliein.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Git</title>
+      <link>https://ameliein.github.io/git/</link>
+      <pubDate>Sun, 23 Feb 2020 15:12:32 +0800</pubDate>
+      
+      <guid>https://ameliein.github.io/git/</guid>
+      <description>Git Document:
+ https://git-scm.com/docs
+ </description>
+    </item>
     
     <item>
       <title>Test</title>
@@ -18,15 +29,6 @@
       
       <guid>https://ameliein.github.io/test/</guid>
       <description>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</description>
-    </item>
-    
-    <item>
-      <title>Documentation</title>
-      <link>https://ameliein.github.io/documentation/</link>
-      <pubDate>Tue, 18 Feb 2020 21:29:01 +0800</pubDate>
-      
-      <guid>https://ameliein.github.io/documentation/</guid>
-      <description></description>
     </item>
     
     <item>

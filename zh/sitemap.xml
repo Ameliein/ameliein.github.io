@@ -2,24 +2,6 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://ameliein.github.io/zh/documentation/</loc><lastmod>2020-02-18T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://ameliein.github.io/documentation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh"
-                    href="https://ameliein.github.io/zh/documentation/"
-                    /></url><url>
-            <loc>https://ameliein.github.io/zh/posts/</loc><lastmod>2020-02-18T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://ameliein.github.io/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh"
-                    href="https://ameliein.github.io/zh/posts/"
-                    /></url><url>
             <loc>https://ameliein.github.io/zh/categories/</loc><lastmod>2019-08-25T16:22:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -31,6 +13,15 @@
                     /></url><url>
             <loc>https://ameliein.github.io/zh/tags/hugo/</loc><lastmod>2019-08-25T16:22:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ameliein.github.io/zh/basic-markdown-preview/</loc><lastmod>2019-08-25T16:22:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ameliein.github.io/zh/posts/</loc><lastmod>2019-08-25T16:22:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://ameliein.github.io/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh"
+                    href="https://ameliein.github.io/zh/posts/"
+                    /></url><url>
             <loc>https://ameliein.github.io/zh/tags/</loc><lastmod>2019-08-25T16:22:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -42,15 +33,6 @@
                     /></url><url>
             <loc>https://ameliein.github.io/zh/tags/%E4%B8%BB%E9%A2%98/</loc><lastmod>2019-08-25T16:22:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ameliein.github.io/zh/categories/%E9%A2%84%E8%A7%88/</loc><lastmod>2019-08-25T16:22:42&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://ameliein.github.io/zh/test/</loc><lastmod>2019-08-17T22:41:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://ameliein.github.io/test/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh"
-                    href="https://ameliein.github.io/zh/test/"
-                    /></url><url>
             <loc>https://ameliein.github.io/zh/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
