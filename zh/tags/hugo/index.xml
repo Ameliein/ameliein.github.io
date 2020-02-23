@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Amelie</title>
+    <link>https://ameliein.github.io/zh/tags/hugo/</link>
+    <description>Recent content in Hugo on Amelie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 25 Aug 2019 16:22:42 +0800</lastBuildDate>
+    
+	<atom:link href="https://ameliein.github.io/zh/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown 基本语法预览</title>
+      <link>https://ameliein.github.io/zh/basic-markdown-preview/</link>
+      <pubDate>Sun, 25 Aug 2019 16:22:42 +0800</pubDate>
+      
+      <guid>https://ameliein.github.io/zh/basic-markdown-preview/</guid>
+      <description>&lt;p&gt;这是一篇用于预览 :(fab fa-markdown): Markdown 基本语法的文章。&lt;/p&gt;
+&lt;p&gt;文章内容基于 &lt;a href=&#34;https://github.github.com/gfm&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;GitHub Flavored Markdown Spec&lt;/a&gt;
+。&lt;/p&gt;
+&lt;p&gt;不包含复杂的规则说明，仅仅展示 GFM 所约定的 Markdown 基本语法。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test Page</title>
+      <link>https://ameliein.github.io/zh/test/</link>
+      <pubDate>Sun, 04 Aug 2019 22:49:56 +0800</pubDate>
+      
+      <guid>https://ameliein.github.io/zh/test/</guid>
+      <description>&lt;h2 id=&#34;fas-fa-rocket-this-is-a-test-page&#34;&gt;:(fas fa-rocket): This is a test page&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.aol.com/article/entertainment/2020/02/10/oscars-viewership-hits-new-low-with-236-million-viewers/23923047/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer&#34;&gt;https://www.aol.com/article/entertainment/2020/02/10/oscars-viewership-hits-new-low-with-236-million-viewers/23923047/&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;Test all features in development.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

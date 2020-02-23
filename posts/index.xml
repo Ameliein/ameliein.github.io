@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Amelie</title>
+    <link>https://ameliein.github.io/posts/</link>
+    <description>Recent content in Posts on Amelie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Feb 2020 14:11:31 +0800</lastBuildDate>
+    
+	<atom:link href="https://ameliein.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://ameliein.github.io/test/</link>
+      <pubDate>Sun, 23 Feb 2020 14:11:31 +0800</pubDate>
+      
+      <guid>https://ameliein.github.io/test/</guid>
+      <description>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</description>
+    </item>
+    
+    <item>
+      <title>Documentation</title>
+      <link>https://ameliein.github.io/documentation/</link>
+      <pubDate>Tue, 18 Feb 2020 21:29:01 +0800</pubDate>
+      
+      <guid>https://ameliein.github.io/documentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://ameliein.github.io/emoji-support/</link>
+      <pubDate>Tue, 01 Oct 2019 17:55:28 +0800</pubDate>
+      
+      <guid>https://ameliein.github.io/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://ameliein.github.io/placeholder-text/</link>
+      <pubDate>Thu, 01 Aug 2019 18:02:41 +0800</pubDate>
+      
+      <guid>https://ameliein.github.io/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ameliein.github.io/markdown-syntax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ameliein.github.io/markdown-syntax/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;title: &amp;ldquo;Markdown Syntax Guide&amp;rdquo;
+date: 2019-12-01T21:57:40+08:00
+lastmod: 2020-01-01T16:45:40+08:00
+draft: false
+author: &amp;ldquo;Hugo Authors&amp;rdquo;
+authorLink: &amp;ldquo;&lt;a href=&#34;https://gohugo.io/%22&#34;&gt;https://gohugo.io/&amp;quot;&lt;/a&gt;
+description: &amp;ldquo;Sample article showcasing basic Markdown syntax and formatting for HTML elements.&amp;rdquo;
+license: &amp;quot;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;tags: [&amp;ldquo;markdown&amp;rdquo;, &amp;ldquo;css&amp;rdquo;, &amp;ldquo;html&amp;rdquo;]
+categories: [&amp;ldquo;theme&amp;rdquo;]
+hiddenFromHomePage: false&lt;/p&gt;
+&lt;p&gt;featuredImage: /images/markdown.png
+featuredImagePreview: &amp;quot;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;toc: true
+autoCollapseToc: true
+math: true
+comment: true&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
