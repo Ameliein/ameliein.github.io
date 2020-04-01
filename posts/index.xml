@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Amelie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2020 20:39:08 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 21:05:31 +0800</lastBuildDate>
     
 	<atom:link href="https://ameliein.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo Github Pages Build Personal Blog</title>
+      <link>https://ameliein.github.io/hugo-github-pages-build-personal-blog/</link>
+      <pubDate>Wed, 01 Apr 2020 21:05:31 +0800</pubDate>
+      
+      <guid>https://ameliein.github.io/hugo-github-pages-build-personal-blog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unbuntu Applications</title>

@@ -35,6 +35,29 @@ souce ~/.bashrc
 
 ## Tool:
 
+### git:
+
+```linux
+# update default package
+sudo apt udpate
+
+# install git
+sudo apt install git
+
+# check
+git --version
+
+# settings
+# method 1
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+# method 2
+sudo gedit ~/.gitconfig
+```
+
+
+
 ### Maven:
 
 reference:

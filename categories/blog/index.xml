@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Amelie</title>
+    <title>blog on Amelie</title>
     <link>https://ameliein.github.io/categories/blog/</link>
-    <description>Recent content in Blog on Amelie</description>
+    <description>Recent content in blog on Amelie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Feb 2020 16:42:14 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 21:05:31 +0800</lastBuildDate>
     
 	<atom:link href="https://ameliein.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo Github Pages Build Personal Blog</title>
+      <link>https://ameliein.github.io/hugo-github-pages-build-personal-blog/</link>
+      <pubDate>Wed, 01 Apr 2020 21:05:31 +0800</pubDate>
+      
+      <guid>https://ameliein.github.io/hugo-github-pages-build-personal-blog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hugo_summary</title>
