@@ -2,17 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://ameliein.github.io/git/</loc><lastmod>2020-02-23T15:12:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://ameliein.github.io/posts/</loc><lastmod>2020-02-23T15:12:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh"
-                        href="https://ameliein.github.io/zh/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://ameliein.github.io/posts/"
-                    /></url><url>
-            <loc>https://ameliein.github.io/categories/</loc><lastmod>2020-02-23T14:11:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://ameliein.github.io/tags/applications/</loc><lastmod>2020-04-01T20:39:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ameliein.github.io/categories/</loc><lastmod>2020-04-01T20:39:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh"
                         href="https://ameliein.github.io/zh/categories/"
@@ -21,10 +12,17 @@
                     hreflang="en"
                     href="https://ameliein.github.io/categories/"
                     /></url><url>
-            <loc>https://ameliein.github.io/tags/css/</loc><lastmod>2020-02-23T14:11:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://ameliein.github.io/tags/html/</loc><lastmod>2020-02-23T14:11:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://ameliein.github.io/tags/markdown/</loc><lastmod>2020-02-23T14:11:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://ameliein.github.io/tags/</loc><lastmod>2020-02-23T14:11:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://ameliein.github.io/categories/operating-system/</loc><lastmod>2020-04-01T20:39:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ameliein.github.io/posts/</loc><lastmod>2020-04-01T20:39:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh"
+                        href="https://ameliein.github.io/zh/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://ameliein.github.io/posts/"
+                    /></url><url>
+            <loc>https://ameliein.github.io/tags/</loc><lastmod>2020-04-01T20:39:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh"
                         href="https://ameliein.github.io/zh/tags/"
@@ -33,6 +31,25 @@
                     hreflang="en"
                     href="https://ameliein.github.io/tags/"
                     /></url><url>
+            <loc>https://ameliein.github.io/tags/ubuntu18.04/</loc><lastmod>2020-04-01T20:39:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ameliein.github.io/unbuntu-application/</loc><lastmod>2020-04-01T20:39:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ameliein.github.io/tags/blog/</loc><lastmod>2020-02-23T16:42:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ameliein.github.io/categories/blog/</loc><lastmod>2020-02-23T16:42:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ameliein.github.io/tags/git/</loc><lastmod>2020-02-23T16:42:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ameliein.github.io/tags/hugo/</loc><lastmod>2020-02-23T16:42:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh"
+                        href="https://ameliein.github.io/zh/tags/hugo/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://ameliein.github.io/tags/hugo/"
+                    /></url><url>
+            <loc>https://ameliein.github.io/hugo_summary/</loc><lastmod>2020-02-23T16:42:14&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ameliein.github.io/git/</loc><lastmod>2020-02-23T15:12:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ameliein.github.io/tags/css/</loc><lastmod>2020-02-23T14:11:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ameliein.github.io/tags/html/</loc><lastmod>2020-02-23T14:11:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ameliein.github.io/tags/markdown/</loc><lastmod>2020-02-23T14:11:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ameliein.github.io/test/</loc><lastmod>2020-02-23T14:11:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ameliein.github.io/categories/theme/</loc><lastmod>2020-02-23T14:11:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ameliein.github.io/tags/emoji/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>

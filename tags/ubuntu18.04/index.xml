@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu18.04 on Amelie</title>
+    <link>https://ameliein.github.io/tags/ubuntu18.04/</link>
+    <description>Recent content in Ubuntu18.04 on Amelie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Apr 2020 20:39:08 +0800</lastBuildDate>
+    
+	<atom:link href="https://ameliein.github.io/tags/ubuntu18.04/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unbuntu Applications</title>
+      <link>https://ameliein.github.io/unbuntu-application/</link>
+      <pubDate>Wed, 01 Apr 2020 20:39:08 +0800</pubDate>
+      
+      <guid>https://ameliein.github.io/unbuntu-application/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

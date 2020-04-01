@@ -6,10 +6,30 @@
     <description>Recent content in Posts on Amelie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Feb 2020 15:12:32 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 20:39:08 +0800</lastBuildDate>
     
 	<atom:link href="https://ameliein.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unbuntu Applications</title>
+      <link>https://ameliein.github.io/unbuntu-application/</link>
+      <pubDate>Wed, 01 Apr 2020 20:39:08 +0800</pubDate>
+      
+      <guid>https://ameliein.github.io/unbuntu-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo_summary</title>
+      <link>https://ameliein.github.io/hugo_summary/</link>
+      <pubDate>Sun, 23 Feb 2020 16:42:14 +0800</pubDate>
+      
+      <guid>https://ameliein.github.io/hugo_summary/</guid>
+      <description>Hugo &amp;amp; Github: bulid your own blog reference:  https://segmentfault.com/a/1190000012975914
+  https://sb.sb/blog/migrate-to-hugo/
+ </description>
+    </item>
     
     <item>
       <title>Git</title>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Amelie</title>
+    <link>https://ameliein.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Amelie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Feb 2020 16:42:14 +0800</lastBuildDate>
+    
+	<atom:link href="https://ameliein.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo_summary</title>
+      <link>https://ameliein.github.io/hugo_summary/</link>
+      <pubDate>Sun, 23 Feb 2020 16:42:14 +0800</pubDate>
+      
+      <guid>https://ameliein.github.io/hugo_summary/</guid>
+      <description>Hugo &amp;amp; Github: bulid your own blog reference:  https://segmentfault.com/a/1190000012975914
+  https://sb.sb/blog/migrate-to-hugo/
+ </description>
+    </item>
+    
+  </channel>
+</rss>
